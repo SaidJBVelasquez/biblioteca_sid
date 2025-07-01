@@ -1,0 +1,8 @@
+.venv/
+.env
+dbo.sqlite3
+
+__pycache__/
+.pytest_cache/
+
+staticfile/
